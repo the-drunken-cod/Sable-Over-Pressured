@@ -1,0 +1,6 @@
+{
+  "pack": {
+    "pack_format": 48,
+    "description": "Add air pressure to the Nether roof (follows the pressure curve of The End)"
+  }
+}
